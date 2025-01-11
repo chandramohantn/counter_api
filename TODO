@@ -1,0 +1,5 @@
+Database APIs
+1. create counter table with required columns
+2. write to counter table
+3. read from counter table
+4. update counter table

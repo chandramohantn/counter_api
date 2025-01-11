@@ -1,0 +1,8 @@
+sqlalchemy
+fastapi
+pydantic
+requests
+uvicorn
+psycopg2-binary
+python-dotenv
+email-validator
